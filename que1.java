@@ -17,6 +17,6 @@ public class que1{
         // System.out.println(list.remove(2));
         // System.out.println(list);
         list.set(3,355);
-        System.err.println(list);
+        System.err.println(list.size());
     }
 }
